@@ -1,0 +1,236 @@
+ /* @media(max-width:1920px){}  */
+@media(max-width:1680px){
+    .header{
+        height: 858px;
+    }
+}
+/* @media(max-width:1600px){} */
+@media(max-width:1536px){
+    .container{
+        margin: 0 55px 0 90px;
+    }
+    .header {
+        height: 848px;
+    }
+    .nomer__tel {
+        font-size: 13px;
+    } 
+}
+@media(max-width:1440px){
+    .zabronirovat {
+        padding: 9px 14px;   
+        border-radius: 26px;
+        margin-left: 90px;
+    }
+    .header {
+        height: 829px;
+    }
+    .header {
+        height: 798px;
+    }
+    .zabronirovat {
+     padding: 7px 11px;
+    }
+    .tittle__logo {
+     font-size: 45px;
+    }
+    .tittle__text {
+     font-size: 16px;
+    }
+    .vibor__game {  
+     height: 42px;
+     padding: 8px 24px;
+     width: 142px;
+     margin-left: 30px;
+    }
+    .prise__list {
+     padding: 8px 21px;
+     width: 135px;
+     height: 39px;
+     height: 41px;
+    }
+    .nav {
+     font-size: 12px;
+    }
+    .header__logo {
+     font-size: 31px;;
+    }
+    .tittle__logo {
+     font-size: 41px;
+    }
+}
+@media(max-width:1366px){
+    .nomer__tel {
+        font-size: 11px;
+    }
+    .header {
+        height: 738px;
+    }
+    .zabronirovat {
+        margin-left: 12px;
+    }
+    .tittle__logo {
+        font-size: 37px;
+    }
+    .tittle__text {
+        font-size: 11px;
+        width: 250px;
+        margin-top: 50px;
+    }
+    .vibor__game {
+        height: 33px;
+        padding: 7px 18px;
+        width: 111px;
+        margin-left: -12px;
+        font-size: 12px;
+    }
+    .prise__list {
+        padding: 7px 21px;
+        width: 111px;
+        height: 32px;
+        font-size: 12px;
+    }
+
+
+}
+@media(max-width:1280px){
+    .nomer__tel{
+        font-weight: 400;
+        font-size: 9px;
+    }
+    .zabronirovat{
+        margin-left: -19px;
+        padding: 5px 6px;
+    }
+    .nav {
+        font-size: 10px;
+    }
+    .header {
+        height: 651px;
+    }
+}
+@media(max-width:1124px){
+    .header {
+        height: 604px;
+    }
+    .header__logo {
+        font-size: 25px;
+    }
+    .tittle__logo {
+        font-size: 33px;
+    }
+}
+@media(max-width:1080px){
+    .nav {
+        font-size: 7px;
+    }
+    .nomer__tel {
+        font-size: 7px;
+    }
+    .header__logo {
+        font-size: 20px;
+    }
+    .tittle__logo {
+        font-size: 31px;
+    }
+    .vibor__game {
+        height: 23px;
+        padding: 4px 13px;
+        width: 83px;
+        font-size: 9px;
+    }
+    .prise__list {
+        padding: 4px 12px;
+        width: 83px;
+        height: 23px;
+        font-size: 9px;
+    }
+}
+@media(max-width:1024px){
+    .header {
+        height: 581px;
+    }
+} 
+@media(max-width:992px){
+    .header {
+        height: 520px;
+    }
+}
+/* @media(max-width:991px){} */
+@media(max-width:920px){
+    .nomer__tel {
+        font-size: 5px;
+    }
+    .nav {
+        font-size: 5px;
+    }
+    .header__logo {
+        font-size: 15px;
+    }
+    .zabronirovat {
+        margin-left: -8px;
+    }
+    .tittle__logo {
+        font-size: 20px;
+        width: 300px;
+    }
+    .tittle__text {
+        font-size: 7px;
+        width: 161px;
+        margin-top: 24px;
+    }
+    .vibor__game {
+        height: 17px;
+        padding: 4px 11px;
+        width: 61px;
+        margin-left: -7px;
+        font-size: 6px;
+    }
+    .prise__list {
+        padding: 4px 10px;
+        width: 63px;
+        height: 17px;
+        font-size: 6px;
+    }
+
+}
+@media(max-width:870px){
+    .zabronirovat {
+        margin-left: -32px;
+        padding: 4px 3px;
+    }
+    .nav {
+        font-size: 4px;
+    }
+    .nomer__tel {
+        font-weight: 400;
+        font-size: 4px;
+    }
+    .header__logo {
+        font-size: 12px;
+    }
+    .header {
+        height: 473px;
+    }
+}
+@media(max-width:768px){
+    .header__logo {
+        font-size: 10px;
+    }
+}
+/* @media(max-width:767px){} */
+/* @media(max-width:736px){} */
+/* @media(max-width:734px){} */
+/* @media(max-width:684px){} */
+/* @media(max-width:667px){} */
+/* @media(max-width:640px){} */
+/* @media(max-width:600px){} */
+/* @media(max-width:575px){} */
+/* @media(max-width:540px){} */
+/* @media(max-width:425px){} */
+/* @media(max-width:414px){} */
+/* @media(max-width:412px){} */
+/* @media(max-width:384px){} */
+/* @media(max-width:375px){} */
+/* @media(max-width:360px){} */
+/* @media(max-width:320px){} */
